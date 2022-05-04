@@ -1,7 +1,9 @@
 # Electrical-vehicls
-for research and development for safty driving autonmous vehicles 
+for research and development for safty driving autonmous vehicles.
 
-contributions related to this project are: 
+I'm planning for implementing automated driving (AD) algorithm on a self-driving car, and to verify the design and optimize the performance in a simulation environment.
+
+I have already designed and developed these sub-systems:- 
 1.	Design and Simulation of a control system of DC motor speed and direction.
 2.	Design and simulation of DC Motor Speed controller based on pole placement.
 3.	Enhancement of DC Motor Speed Using Fuzzy Controller.
